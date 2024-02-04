@@ -69,7 +69,6 @@ input {
 .amount {
   margin-bottom: 16px;
 }
-
 button {
   outline: none;
   padding: 10px 80px;
